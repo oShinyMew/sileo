@@ -1,0 +1,6 @@
+Package: com.shinymew.keebtest
+Name: Old Package
+Section: Tweaks
+Depends: firmware (<16.0)
+Description: KeebTest is a Sample Package for my Repo!
+SileoDepiction: https://oshinymew.github.io/sileo/depictions/native/com.shinymew.keebtest/depiction.json
